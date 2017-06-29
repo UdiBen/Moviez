@@ -1,2 +1,3 @@
 # Moviez
-Scala playground
+Scala playground -
+Playing with Scala capabilities
